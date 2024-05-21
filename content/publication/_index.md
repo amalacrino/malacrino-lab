@@ -1,4 +1,4 @@
----
+ ---
 title: Publications
 
 # Listing view
