@@ -1,5 +1,5 @@
 ---
-title: 23 Jul 2022. Lab website is finally online!
+title: 23 Jul 2024. Lab website is online!
 date: 2024-07-23
 show_date: false
 image:
