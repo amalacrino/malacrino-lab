@@ -38,7 +38,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://sfamjournals.onlinelibrary.wiley.com/doi/epdf/10.1111/1758-2229.12998
+# url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -59,7 +59,7 @@ url_video: ''
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: [microbiome]
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
