@@ -23,6 +23,4 @@ The **Malacrino Lab** at Clemson University focuses on fundamental and applied r
 
 We integrate multiple approaches and theories spanning the fields of microbiology, community ecology, experimental evolution, meta-omics, and bioinformatics. In our quest to uncover the mechanisms and consequences of plant-microbe interactions, we aim to build a diverse and inclusive research group, welcoming great ideas and promoting tolerance and mutual respect.
 
-We are currently based at the University of Reggio Calabria (Italy), but in January 2025 we will move to Clemson University (SC, USA)!!!
-
-#{{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+We are currently based at the University of Reggio Calabria (Italy), but in January 2025 we will move to Clemson University (SC, USA).
