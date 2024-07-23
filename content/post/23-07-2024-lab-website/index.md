@@ -9,7 +9,7 @@ profile: false
 reading_time: false
 ---
 
-We are excited to launch the website of the Malacrino Lab! We are currently based at the University of Reggio Calabria (Italy), but soon we will move to Clemson University (SC, USA)!!!
+We are excited to launch the website of the Malacrino Lab! We are currently based at the University of Reggio Calabria (Italy), and in January 2025 we will move to Clemson University (SC, USA).
 
 <!--more-->
 

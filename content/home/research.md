@@ -65,4 +65,4 @@ Our research is a blend of theory drawn from evolutionary biology, community eco
 
 In our quest to uncover the mechanisms and consequences of plant-microbe interactions, we aim to build a diverse and inclusive research group, welcoming great ideas and promoting tolerance and mutual respect.
 
-> Have a look at the ongoing research in the lab!
+## Have a look at the ongoing research in the lab!
