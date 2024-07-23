@@ -13,7 +13,7 @@ title: Edda Francomano
 superuser: false
 
 # Role/position
-role: PhD student
+role: PhD student @ UniRC
 
 # Organizations/Affiliations
 organizations:
@@ -70,5 +70,3 @@ highlight_name: true
 user_groups:
   - PhD Students
 ---
-
-Stuff here

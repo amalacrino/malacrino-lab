@@ -7,7 +7,7 @@ weight: 30
 superuser: true
 
 # Role/position
-role: Assistant Professor (RTDb)
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
@@ -15,7 +15,7 @@ organizations:
 #    url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: I’m a molecular ecologist interested in plant-microorganism interaction.
+bio: I’m a molecular ecologist interested in host-microorganism interaction.
 
 interests:
   - Plants
@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:antonino.malacrino@unirc.it'  # For a direct email link, use "mailto:antonino.malacrino@gmail.com".
+  link: 'mailto:amalacr@clemson.edu'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/antonino_mal
@@ -74,8 +74,6 @@ user_groups:
 ---
 
 **I’m a molecular ecologist interested in plant-microorganism interaction**. I mix theory from community ecology, experimental evolution, and multitrophic interactions with tools such as molecular biology, high-throughput sequencing, and high-performance computing to investigate the mechanisms behind the interactions between plants and their microbiome. My research focuses on answering important fundamental questions: how do microbiomes influence plant ecology and evolution? What are the drivers of microbial community assembly in plants? How do microbiomes help invasive species to adapt to new environments? 
-
-{{< cta cta_text="Visit my professional website" cta_link="https://amalacrino.netlify.app/" cta_new_tab="true" >}}
 
 
 

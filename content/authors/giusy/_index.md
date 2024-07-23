@@ -13,7 +13,7 @@ title: Giusy Vizzari
 superuser: false
 
 # Role/position
-role: PhD student
+role: PhD student @ UniRC
 
 # Organizations/Affiliations
 organizations:
