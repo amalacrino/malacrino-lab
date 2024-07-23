@@ -6,7 +6,7 @@
 widget: blank # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
-title: Opportunities
+
 #hero_media: fungi.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -16,12 +16,3 @@ design:
   css_class:
 ---
 
-<br>
-
-Are you interested in microbiomes? Are you looking for postdoc opportunities, PhD or Masters positions, or undergraduate research experience? Different positions may be available at different times. Even if not advertised below, feel free to contact {{% mention "admin" %}}  to discuss potential opportunities.
-
-**Graduate Students**:
-
-**Postdoc**:
-
-**Lab Technician**:
