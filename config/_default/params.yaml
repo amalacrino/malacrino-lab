@@ -6,7 +6,7 @@
 # Appearance
 
 appearance:
-  theme_day: forest
+  theme_day: minimal
   theme_night:
   font: native
   font_size: M
@@ -17,8 +17,8 @@ marketing:
   seo:
     site_type: Organization
     local_business_type: ''
-    org_name: 'Plant Pathology Group'
-    description: 'The website of the Plant Pathology Group at the University of Reggio Calabria'
+    org_name: 'Malacrino Lab'
+    description: 'The website of the Malacrino Lab at Clemson University'
     twitter: 'wowchemy'
   analytics:
     google_analytics: ''
