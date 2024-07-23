@@ -25,4 +25,4 @@ We integrate multiple approaches and theories spanning the fields of microbiolog
 
 We are currently based at the University of Reggio Calabria (Italy), but in January 2025 we will move to Clemson University (SC, USA)!!!
 
-{{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+#{{% cta cta_link="./people/" cta_text="Meet the team →" %}}
