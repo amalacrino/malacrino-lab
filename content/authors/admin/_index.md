@@ -70,7 +70,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigators
+  - Principal Investigator
 ---
 
 **I’m a molecular ecologist interested in plant-microorganism interaction**. I mix theory from community ecology, experimental evolution, and multitrophic interactions with tools such as molecular biology, high-throughput sequencing, and high-performance computing to investigate the mechanisms behind the interactions between plants and their microbiome. My research focuses on answering important fundamental questions: how do microbiomes influence plant ecology and evolution? What are the drivers of microbial community assembly in plants? How do microbiomes help invasive species to adapt to new environments? 
