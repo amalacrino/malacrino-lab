@@ -2,7 +2,7 @@
 title: Research
 
 # Listing view
-view: 5
+view: compact
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:
