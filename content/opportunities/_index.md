@@ -9,10 +9,10 @@ headless: true
 
 <br>
 
-Are you interested in microbiomes? Are you looking for postdoc opportunities, PhD or Masters positions, or undergraduate research experience? Different positions may be available at different times. Even if not advertised below, feel free to contact {{% mention "admin" %}}  to discuss potential opportunities.
+Are you interested in microbiomes? Are you looking for postdoc or grad student (MSc or PhD) positions? Even if not advertised below, feel free to contact {{% mention "admin" %}} to discuss potential opportunities. Inquiries about undergraduate research experiences are always welcome!
 
-**Graduate Students**:
+**Graduate Students**: I'm looking for grad students to begin in Fall 2025. More details coming soon, but feel free to contact {{% mention "admin" %}}.
 
-**Postdoc**:
+**Postdoc**: Contact {{% mention "admin" %}} to discuss postdoc opportunities.
 
-**Lab Technician**:
+**Lab Technician**: I'm looking for a Lab Technician to begin in Spring 2025. More details coming soon, but feel free to contact {{% mention "admin" %}}.
