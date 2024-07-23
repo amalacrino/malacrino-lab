@@ -1,15 +1,15 @@
 # SITE SETUP
-# Guide: https://docs.hugoblox.com/tutorial/
-# Documentation: https://docs.hugoblox.com/
+# Guide: https://wowchemy.com/docs/getting-started/
+# Documentation: https://wowchemy.com/docs/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
 
 appearance:
-  theme_day: minimal
+  theme_day: forest
   theme_night:
   font: native
-  font_size: L
+  font_size: M
 
 # SEO
 
@@ -17,14 +17,12 @@ marketing:
   seo:
     site_type: Organization
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'GetResearchDev'
+    org_name: 'Plant Pathology Group'
+    description: 'The website of the Plant Pathology Group at the University of Reggio Calabria'
+    twitter: 'wowchemy'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
-    google_tag_manager: ''
-    microsoft_clarity: ''
   verification:
     google: ''
     baidu: ''
@@ -37,7 +35,7 @@ header:
     align: r
     show_logo: true
     show_language: false
-    show_day_night: true
+    show_day_night: false
     show_search: true
     highlight_active_link: false
 
@@ -45,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Antonino Malacrinò. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -70,7 +68,7 @@ features:
   math:
     enable: false
   privacy_pack:
-    enable: false
+    enable: true
   repository:
     url: 'https://github.com/<username>/<repository>'
     content_dir: content
@@ -85,11 +83,6 @@ features:
       show_count: true
     commento:
       url: ''
-    giscus:
-      repo: ''
-      repo_id: ''
-      category: ''
-      category_id: ''
   search:
     provider: wowchemy
     algolia:
@@ -105,7 +98,7 @@ features:
 # Extensions
 
 extensions:
-  decap_cms:
+  cms:
     branch: main
     local_backend: false
   academicons:
