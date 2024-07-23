@@ -36,7 +36,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.frontiersin.org/articles/10.3389/fmicb.2022.1075399/full
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -57,7 +57,7 @@ url_video: ''
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: [microbiome]
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

@@ -16,6 +16,9 @@ design:
   css_class:
 ---
 
+<br>
+
+Are you interested in microbiomes? Are you looking for postdoc opportunities, PhD or Masters positions, or undergraduate research experience? Different positions may be available at different times. Even if not advertised below, feel free to contact {{% mention "admin" %}}  to discuss potential opportunities.
 
 **Graduate Students**:
 
