@@ -16,8 +16,10 @@ design:
   css_class:
 ---
 
-The **Malacrino Lab** at Clemson University focuses on fundamental and applied research on microbiomes, and their influence on host ecology and evolution. 
+The **Malacrino Lab** is part of the Department of Biological Science at Clemson University focuses on fundamental and applied research on microbiomes. 
 
-We integrate multiple approaches and theories spanning the fields of microbiology, community ecology, experimental evolution, meta-omics, and bioinformatics. In our quest to uncover the mechanisms and consequences of plant-microbe interactions, we aim to build a diverse and inclusive research group, welcoming great ideas and promoting tolerance and mutual respect.
+Our research is a blend of theory drawn from evolutionary biology, community ecology, and multitrophic interactions, combined with cutting-edge tools in molecular biology, experimental evolution, high-throughput sequencing, and high-performance computing to delve deep into the mechanisms governing the interplay between plants and their microbiomes. Our goal is to answer important fundamental questions: how do microbiomes influence plant ecology and evolution? Which are the rules behind the assembly of plant microbial communities? Can we assemble/evolve microbiomes to drive changes in plant functional traits? 
+
+In our quest to uncover the mechanisms and consequences of plant-microbe interactions, we aim to build a diverse and inclusive research group, welcoming great ideas and promoting tolerance and mutual respect.
 
 We are currently based at the University of Reggio Calabria (Italy), but in January 2025 we will move to Clemson University (SC, USA).

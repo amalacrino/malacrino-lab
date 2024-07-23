@@ -5,10 +5,10 @@
 
 main:
   - name: Research
-    url: project
+    url: #project
     weight: 10
   - name: News
-    url: post
+    url: #post
     weight: 20
   - name: People
     url: people
@@ -17,7 +17,7 @@ main:
 #    url: event
 #    weight: 40
   - name: Publications
-    url: publication
+    url: #publication
     weight: 50
   - name: Opportunities
     url: opportunities
