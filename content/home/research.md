@@ -3,7 +3,6 @@
 widget: portfolio
 headless: true  # This file represents a page section.
 weight: 40
-active: true
 
 # ... Put Your Section Options Here (title etc.) ...
 title: Research
