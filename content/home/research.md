@@ -2,11 +2,11 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: portfolio
 headless: true  # This file represents a page section.
-weight: 20
+weight: 30
 
 # ... Put Your Section Options Here (title etc.) ...
-title: Have a look at the ongoing research in the lab
-#subtitle: ''
+#title: 
+subtitle: 'Have a look at the ongoing research in the lab'
 
 content:
   # Choose which content to display in the widget

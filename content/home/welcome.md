@@ -6,7 +6,7 @@
 widget: blank # See https://wowchemy.com/docs/page-builder/
 
 headless: true # This file represents a page section.
-weight: 40 # Order that this section will appear.
+weight: 10 # Order that this section will appear.
 title: 👋 Hi, there! Welcome to the Malacrino Lab!
 #hero_media: fungi.jpg
 design:
