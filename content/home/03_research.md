@@ -5,8 +5,8 @@ headless: true  # This file represents a page section.
 weight: 30
 
 # ... Put Your Section Options Here (title etc.) ...
-#title: 
-subtitle: 'Have a look at the ongoing research in the lab'
+title: Research topics
+#subtitle: 'Have a look at the ongoing research in the lab'
 
 content:
   # Choose which content to display in the widget
