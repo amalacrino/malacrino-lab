@@ -1,11 +1,11 @@
 ---
 title: 'Insect–microbe interactions and their influence on organisms and ecosystems'
 authors:
-  - Jocelyn R. Holt
+  - Jocelyn Holt
   - Nathalia Cavichiolli de Oliveira
-  - Raul F. Medina
+  - Raul Medina
   - admin
-  - Amelia R. I. Lindsey
+  - Amelia Lindsey
 
 date: '2024-07-21T00:00:00Z'
 doi: '10.1002/ece3.11699'
