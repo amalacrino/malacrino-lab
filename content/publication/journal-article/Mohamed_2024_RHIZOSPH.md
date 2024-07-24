@@ -1,7 +1,7 @@
 ---
 title: 'Lettuce seedlings rapidly assemble their microbiome from the environment through deterministic processes'
 authors:
-  - nesma
+  - Nesma Zakaria Mohamed
   - Leonardo Schena
   - admin
 
