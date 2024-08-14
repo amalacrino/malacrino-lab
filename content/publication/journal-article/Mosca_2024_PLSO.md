@@ -21,7 +21,7 @@ author_notes:
  - ''
  - 'PhD student in the group'
  - 'PhD student in the group'
- - ''
+ - 'PhD student in the group'
  - ''
  - ''
  - ''

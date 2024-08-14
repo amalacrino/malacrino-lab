@@ -5,6 +5,11 @@ authors:
   - Leonardo Schena
   - admin
 
+author_notes:
+ - 'PhD student in the group'
+ - ''
+ - ''
+
 date: '2024-05-13T00:00:00Z'
 doi: '10.1016/j.rhisph.2024.100896'
 
