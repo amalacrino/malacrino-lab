@@ -16,12 +16,12 @@ authors:
 
 author_notes:
  - ''
- - 'Postdoc in the group'
+ - 'supervised Postdoc'
  - ''
  - ''
- - 'PhD student in the group'
- - 'PhD student in the group'
- - 'PhD student in the group'
+ - 'supervised PhD student'
+ - 'supervised PhD student'
+ - 'supervised PhD student'
  - ''
  - ''
  - ''

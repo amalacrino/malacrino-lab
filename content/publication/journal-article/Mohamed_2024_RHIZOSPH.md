@@ -6,7 +6,7 @@ authors:
   - admin
 
 author_notes:
- - 'PhD student in the group'
+ - 'supervised PhD student'
  - ''
  - ''
 
