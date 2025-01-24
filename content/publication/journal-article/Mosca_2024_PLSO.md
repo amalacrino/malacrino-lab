@@ -2,11 +2,11 @@
 title: 'Integrated analyses of the plant and soil microbiome identify Phytopythium vexans as agent of the Kiwifruit Vine Decline Syndrome'
 authors:
   - Saveria Mosca
-  - miya
+  - Miya Aci
   - Giuseppina Procopio
   - Vittoria Vadalà
-  - giusy
-  - edda
+  - Giuseppina Vizzari
+  - Edda Francomano
   - Nesma Zakaria Mohamed
   - Maria Giulia Li Destri Nicosia
   - Giovanni Enrico Agosteo
