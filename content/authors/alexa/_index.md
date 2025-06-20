@@ -47,7 +47,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Postdoc
+  - Postdocs
 ---
 
 **I’m a microbial bioinformatician interested in how microorganisms interact with and shape their environments**. My research combines Next-generation sequencing, environmental data, and computational tools to investigate microbial diversity, community structure, and functional roles in ecosystems. Previously, I focused on how microbial biogeochemical processes are influenced by environmental gradients. In my current work, I aim to explore how plant-associated microbial communities affect host development and resilience, particularly within the context of plant–microbe interactions. My approach draws on concepts from ecology, genomics, and data science to study microbial systems across diverse environmental settings.
