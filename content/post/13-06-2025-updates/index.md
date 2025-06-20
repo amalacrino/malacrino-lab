@@ -15,7 +15,7 @@ It's been a while! Here a few lab updates:
 
 The lab is growing!
 * Uvini Senanayaka officially joined the lab as PhD student – welcome Uvini! She will work on understanding the interactions within the plant holobiont.
-* Alexa Bennett officially joined as postdoc – welcome Alexa! She will work on metagenomics and pangenomics datasets to understand the rules behind plant microbiomes assembly and the consequences for plants.
+* Alexa Bennett officially joined the group as postdoc – welcome Alexa! She will work on metagenomics and pangenomics datasets to understand the rules behind plant microbiomes assembly and the consequences for plants.
 
 We have two new preprints showcasing:
 * Giusy's work: [Fire limits soil microbial dispersal and differentially impacts bacterial and fungal communities](https://doi.org/10.1101/2025.05.02.651892). 
