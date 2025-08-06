@@ -5,6 +5,11 @@ authors:
   - giusy
   - Alison E. Bennett
   - admin
+author_notes:
+ - ''
+ - 'supervised PhD student'
+ - ''
+ - ''
 
 date: '2025-08-01T00:00:00Z'
 doi: '10.1111/gcb.70386'
