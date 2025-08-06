@@ -7,8 +7,8 @@ date: '2023-01-01T00:00:00Z'
 external_link: ''
 ---
 
-Plants don’t grow alone—they interact constantly with an invisible community of microbes living in and around their roots, leaves, and stems. These microbes can help plants grow better, resist disease, and tolerate stressful environments. But not all plants host the same microbes. One reason is the plant’s genome, which acts like a set of instructions that can influence which microbes are invited to stay and which are kept out.
+Microbes can help plants grow faster, resist pests, tolerate drought, and more. But what if we could guide microbial communities to make them even more helpful to plants? In this project, we’re taking inspiration from plant breeding—but instead of selecting plants, we’re selecting microbiomes. By growing plants under specific conditions and transferring their best-performing microbiomes generation after generation, we can “evolve” microbial communities with enhanced traits.
 
-Our research explores how plant genetics shape the makeup of the microbial communities that live on them. We compare different plant species and varieties to understand how subtle changes in their DNA lead to big changes in their microbiomes. By identifying the genes involved in these interactions, we can start to uncover the molecular “dialogue” between plants and their microbial partners.
+This approach, known as microbiome engineering or microbiome selection, is a promising new frontier in plant science. It allows us to shape microbial communities without needing to genetically modify either the microbes or the plants themselves. Over time, we aim to develop microbial mixtures that can consistently improve plant health in specific environments.
 
-Understanding these relationships can help us develop crops that naturally support healthier, more beneficial microbiomes. In turn, this could reduce the need for chemical fertilizers or pesticides, making agriculture more sustainable and resilient to climate change.
+If successful, this strategy could revolutionize agriculture by offering tailored, eco-friendly microbiome solutions for different crops and climates. It opens a new path to sustainable food production, especially in areas facing environmental challenges like drought or poor soil quality.
