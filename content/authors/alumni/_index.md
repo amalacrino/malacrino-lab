@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Previous lab members
+title: Former lab members
 
 # Is this the primary user of the site?
 superuser: false
