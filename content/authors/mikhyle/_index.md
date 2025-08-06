@@ -7,7 +7,7 @@ cascade:
     list: always
 
 # Display name
-title: Uvini Senanayake
+title: Mikhyle Fehlman
 
 # Is this the primary user of the site?
 superuser: false
@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:usenana@clemson.edu' 
+  link: 'mailto:mfehlma@clemson.edu' 
 #- icon: twitter
 #  icon_pack: fab
 #  link: 

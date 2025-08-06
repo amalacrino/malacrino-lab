@@ -19,7 +19,7 @@ content:
     - Principal Investigator
     - Researchers
     - Postdocs
-    - PhD Students
+    - Grad Students
     - Lab Technicians
     - Visitors
     - Alumni
