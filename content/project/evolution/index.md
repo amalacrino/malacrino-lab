@@ -7,7 +7,7 @@ date: '2020-01-01T00:00:00Z'
 external_link: ''
 ---
 
-We examine how plant-associated microbes can act as drivers of plant evolution by affecting survival and reproduction over generations.
+We examine how plant-associated microbes can act as drivers of plant evolution.
 
 <!--more-->
 

@@ -7,7 +7,7 @@ date: '2023-01-01T00:00:00Z'
 external_link: ''
 ---
 
-We use experimental evolution to shape microbiomes that enhance specific beneficial traits in plants.
+We use experimental evolution to shape microbiomes that enhance specific traits in plants.
 
 <!--more-->
 
