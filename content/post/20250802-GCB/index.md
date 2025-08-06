@@ -1,6 +1,6 @@
 ---
 title: 02 Aug 2025. New publication out!
-date: 2024-07-23
+date: 2025-08-02
 show_date: false
 image:
   focal_point: 'top'
