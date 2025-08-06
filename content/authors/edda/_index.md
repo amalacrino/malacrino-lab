@@ -13,7 +13,7 @@ title: Edda Francomano
 superuser: false
 
 # Role/position
-role: PhD student @ UniRC
+role: Grad student @ UniRC
 
 # Organizations/Affiliations
 organizations:

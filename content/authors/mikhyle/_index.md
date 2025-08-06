@@ -13,7 +13,7 @@ title: Mikhyle Fehlman
 superuser: false
 
 # Role/position
-role: PhD student
+role: Grad student
 
 # Organizations/Affiliations
 organizations:

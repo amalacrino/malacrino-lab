@@ -55,7 +55,5 @@ design:
 
 ---
 
-{{% callout note %}}
-This section is currently being developed. Stay tuned for more content.
-{{% /callout %}}
+
 
