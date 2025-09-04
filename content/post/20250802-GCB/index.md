@@ -23,6 +23,8 @@ Our global synthesis reveals that fire doesn’t just burn what’s aboveground 
 
 These belowground shifts may reduce microbial resilience and slow down post-fire ecosystem recovery — especially as fire regimes intensify with global changes.
 
-Read more here:
+Read the [press release here](https://news.clemson.edu/wildfire-impacts-on-soil-microbes-can-cause-long-lasting-effects-to-ecosystem/).
+
+Read our paper here:
 
 {{< cite page="/publication/journal-article/Hopkins_2025_GCB" view="4" >}}
