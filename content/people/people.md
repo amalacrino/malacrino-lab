@@ -20,6 +20,7 @@ content:
     - Researchers
     - Postdocs
     - Grad Students
+    - Undergraduate Students
     - Lab Technicians
     - Visitors
     - Alumni

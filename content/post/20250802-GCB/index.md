@@ -25,6 +25,8 @@ These belowground shifts may reduce microbial resilience and slow down post-fire
 
 Read the [press release here](https://news.clemson.edu/wildfire-impacts-on-soil-microbes-can-cause-long-lasting-effects-to-ecosystem/).
 
-Read our paper here:
+We made it to the [local news](https://www.wyff4.com/article/clemson-university-researcher-works-to-help-forests-recover-faster-after-wildfires/65997546) (thanks WYFF and KCRA for featuring our work)!
+
+Have a look at our paper:
 
 {{< cite page="/publication/journal-article/Hopkins_2025_GCB" view="4" >}}
