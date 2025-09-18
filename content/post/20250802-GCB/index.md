@@ -9,7 +9,7 @@ profile: false
 reading_time: false
 ---
 
-New publication out in *Global Change Biology*!
+New publication out in *GCB*!
 
 <!--more-->
 
@@ -21,7 +21,7 @@ Our global synthesis reveals that fire doesn’t just burn what’s aboveground 
 * Fungal communities lose diversity, and bacterial communities shift toward fewer, dominant species
 * This selects for pyrophilic specialists, altering how soil systems may function post-fire
 
-These belowground shifts may reduce microbial resilience and slow down post-fire ecosystem recovery — especially as fire regimes intensify with global changes.
+These belowground shifts may reduce microbial resilience and slow down post-fire ecosystem recovery — especially as fire regimes intensify.
 
 Read the [press release here](https://news.clemson.edu/wildfire-impacts-on-soil-microbes-can-cause-long-lasting-effects-to-ecosystem/).
 
