@@ -14,6 +14,8 @@ user_groups:
 Alumni (UniRC)
 
 * **Nesma Zakaria** (PhD student)
+* **Giusy Vizzari** (PhD student)
+* **Edda Francomano** (PhD student)
 * **Miya Aci** (Postdoc)
 
 
