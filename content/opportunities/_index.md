@@ -13,7 +13,8 @@ Are you interested in microbiomes? Are you looking for postdoc or grad student (
 
 **Inquiries about undergraduate research experiences are always welcome!**
 
-**Graduate Students**: I'm looking for grad students to begin in Fall 2026. Contact Dr. {{% mention "admin" %}} with a cover letter (max 2 pages) and your CV.
+**Graduate Students**: We are currently not looking for grad students. However, feel free to 
+contact Dr. {{% mention "admin" %}} to discuss potential opportunities.
 
 **Postdoc**: We do not have open postdoc positions at this moment. However, feel free to 
 contact Dr. {{% mention "admin" %}} to discuss postdoc opportunities.
