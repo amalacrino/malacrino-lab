@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:eihall@clemson.edu' 
+  link: 'mailto:payala@g.clemson.edu' 
 #- icon: twitter
 #  icon_pack: fab
 #  link: 
