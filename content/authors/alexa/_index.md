@@ -36,7 +36,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:abenn25@clemson.edu'
-
+- icon: github
+  icon_pack: fab
+  link: https://github.com/AlexaBennett
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
