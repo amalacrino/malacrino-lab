@@ -6,7 +6,22 @@ authors:
   - Nichole Ginnan
   - admin
   - Maria Elena Martino
-  - [...]
+  - Simon Bahrndorﬀ
+  - Sunil Mundra
+  - Michael D. Martin
+  - Kevin R. Theis
+  - Sarah M. Hird
+  - Alejandro Caro-Quintero
+  - Thomas J. Sharpton
+  - Kevin D. Kohl
+  - Christopher J. Barnes
+  - Raphael Eisenhofer
+  - Ostaizka Aizpurua
+  - Sandra B. Andersen
+  - Jaelle C. Brealey
+  - Christina L. Noer
+  - Mónica Medina
+  - Morten T. Limborg
   - Antonn Alberdi
 
 date: '2024-11-14T00:00:00Z'
