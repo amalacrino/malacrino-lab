@@ -13,7 +13,7 @@ title: Maria Grazia Morea
 superuser: false
 
 # Role/position
-role: Visiting PhD Student
+role: Visiting PhD Student from the University of Foggia, Italy
 
 # Organizations/Affiliations
 organizations:
