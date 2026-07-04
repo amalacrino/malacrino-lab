@@ -1,5 +1,5 @@
 ---
-title: 'Plant health in the era of global changes, holobiont biology, and microbiome-based solutions'
+title: 'Beneficial fungi as major drivers of root fungal microbiome assembly and network robustness across a soil disturbance gradient'
 authors:
   - Saveria Mosca
   - Edda Francomano
