@@ -17,3 +17,10 @@ Our research investigates the ecological and evolutionary "rules" that shape mic
 
 By uncovering the principles that govern microbiome assembly, we can better predict and eventually manipulate microbial communities to benefit plants. This knowledge is essential for designing microbiome-based agricultural interventions that are effective, reliable, and grounded in ecological understanding.
 
+Read some of our work:
+
+{{< cite page="/publication/journal-article/Mosca_2026_ASE" view="4" >}}
+
+{{< cite page="/publication/journal-article/Francomano_2026_PLSO" view="4" >}}
+
+{{< cite page="/publication/journal-article/Mohamed_2024_RHIZOSPH" view="4" >}}

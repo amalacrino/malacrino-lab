@@ -1,5 +1,5 @@
 ---
-title: Research topics
+title: Funded projects
 
 # Listing view
 view: showcase

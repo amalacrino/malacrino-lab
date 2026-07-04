@@ -11,8 +11,16 @@ We study how microbes influence plant interactions with insects, from pollinator
 
 <!--more-->
 
-Plants live in a complex web of interactions involving both helpful and harmful organisms. Microbes can affect how plants grow, but they can also influence how plants interact with insects—like pollinators, herbivores, or disease vectors. This project examines the three-way relationship between plants, their microbiomes, and the insects they encounter.
+Plants are under constant pressure from insect herbivores, and how well a plant defends itself depends not only on its own genome but on the microbial community it hosts. We study the three-way interactions among plants, their microbiomes, and the insects that feed on them, asking how microbes shape a plant's vulnerability and resistance to herbivory—and how herbivores, in turn, reshape the plant microbiome.
 
-We study how changes in a plant’s microbiome affect its attractiveness to insects, its ability to resist pests, or its success in being pollinated. Conversely, we also look at how insect activity can reshape plant microbiomes by introducing or spreading microbes across plants.
+Microbes sit at the heart of plant defense. They can prime or dampen the immune responses a plant mounts when attacked, modify the production of defensive compounds that deter or poison feeding insects, and alter the plant's nutritional quality in ways that make it a better or worse meal. The insects themselves are not passive: as they chew, pierce, and feed, herbivores introduce microbes through wounds and saliva, redistribute existing community members, and trigger changes that ripple through the microbiome long after feeding ends. We disentangle these feedbacks with experiments that manipulate plant microbiomes and herbivore attack together, tracking how each shapes the other.
 
-These interactions are crucial for agriculture and ecosystem health. By better understanding the plant–microbe–insect triangle, we can develop smarter pest management strategies and support pollinator health, while making use of beneficial microbes already present in the environment.
+Because herbivory drives crop losses and shapes plant communities in the wild, these interactions carry direct ecological and agricultural weight. Understanding how the microbiome mediates the contest between plants and the insects that eat them opens a route to managing pests through the microbiome—strengthening plant defenses from within rather than relying solely on external inputs.
+
+Read some of our work:
+
+{{< cite page="/publication/journal-article/Malacrino_2024_COMMSBIO" view="4" >}}
+
+{{< cite page="/publication/journal-article/Malacrino_Bennett_2024_COMMSBIO" view="4" >}}
+
+{{< cite page="/publication/journal-article/Bottner_2023_NPH" view="4" >}}
